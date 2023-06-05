@@ -1,7 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
-import plotly.express as px
 import data
 
 # so it takes up the entire width of the page
