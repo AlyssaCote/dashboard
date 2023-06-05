@@ -4,7 +4,7 @@ import data
 
 iCol, hCol = st.columns([5,10])
 with iCol:
-    st.image("/Users/alyssacote/Streamlit/dashboard/assets/SmartSim.png", width=200)
+    st.image("assets/SmartSim.png", width=200)
 with hCol:
     st.header('Example Customer: Experiment Name')
 
